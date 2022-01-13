@@ -37,4 +37,4 @@ if (youLikeSpongebob) {
 }
 ```
 
-This is hands down the most cringe shit ive written ffs
+This is hands down the most cringe stuff ive written ffs
