@@ -35,6 +35,6 @@ if (youLikeSpongebob) {
 } else {
     System.out.println("Maybe youre stupid, and youre also dumb");
 }
-
+```
 
 This is hands down the most cringe shit ive written ffs
